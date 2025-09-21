@@ -6,19 +6,16 @@
 
 - I will publish codes and summary for the below mentioned modules while learning
 
-Modules by sequence: 
+Learning objectives
 
-Scaler:
-    
-    0. Dare to Dream. [Preparation for Google and Microsoft]
-
-    1. Introduction to Programming (Beginner)
-    2. Programming Constructs (Intermediate)
-    3. Common Core Foundations
-    4. Common Core Maths
-    5. Common Core Tools
-
-<!---
-This is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+    Analyze the daily responsibilities and key roles of a data engineer.
+    Explain the importance of SQL in data cleaning and analytics for data engineers.
+    Describe the ETL (Extract, Transform, Load) process and its significance in data engineering.
+    Identify different types of databases and their uses in data engineering tasks.
+    Demonstrate the installation and setup of PostgreSQL for SQL practice.
+    Write SQL queries to retrieve and manipulate data from databases.
+    Implement JOIN operations to combine data from multiple tables.
+    Utilize indexing to optimize SQL query performance.
+    Handle SQL syntax and logical errors effectively.
+    Secure databases by managing users, roles, and permissions.
 --->
